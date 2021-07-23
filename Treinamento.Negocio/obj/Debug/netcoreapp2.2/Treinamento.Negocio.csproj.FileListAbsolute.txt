@@ -1,0 +1,9 @@
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Negocio\bin\Debug\netcoreapp2.2\Treinamento.Negocio.deps.json
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Negocio\bin\Debug\netcoreapp2.2\Treinamento.Negocio.dll
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Negocio\bin\Debug\netcoreapp2.2\Treinamento.Negocio.pdb
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Negocio\obj\Debug\netcoreapp2.2\Treinamento.Negocio.csprojAssemblyReference.cache
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Negocio\obj\Debug\netcoreapp2.2\Treinamento.Negocio.AssemblyInfoInputs.cache
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Negocio\obj\Debug\netcoreapp2.2\Treinamento.Negocio.AssemblyInfo.cs
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Negocio\obj\Debug\netcoreapp2.2\Treinamento.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Negocio\obj\Debug\netcoreapp2.2\Treinamento.Negocio.dll
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Negocio\obj\Debug\netcoreapp2.2\Treinamento.Negocio.pdb

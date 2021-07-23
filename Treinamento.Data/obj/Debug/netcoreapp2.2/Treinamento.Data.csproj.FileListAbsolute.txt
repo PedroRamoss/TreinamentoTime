@@ -1,0 +1,12 @@
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Data\bin\Debug\netcoreapp2.2\Treinamento.Negocio.dll
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Data\obj\Debug\netcoreapp2.2\Treinamento.Data.csprojAssemblyReference.cache
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Data\obj\Debug\netcoreapp2.2\Treinamento.Data.AssemblyInfoInputs.cache
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Data\obj\Debug\netcoreapp2.2\Treinamento.Data.AssemblyInfo.cs
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Data\bin\Debug\netcoreapp2.2\Treinamento.Data.deps.json
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Data\bin\Debug\netcoreapp2.2\Treinamento.Data.dll
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Data\bin\Debug\netcoreapp2.2\Treinamento.Data.pdb
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Data\bin\Debug\netcoreapp2.2\Treinamento.Negocio.pdb
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Data\obj\Debug\netcoreapp2.2\Treinamento.Data.csproj.CoreCompileInputs.cache
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Data\obj\Debug\netcoreapp2.2\Treinamento.Data.csproj.CopyComplete
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Data\obj\Debug\netcoreapp2.2\Treinamento.Data.dll
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Data\obj\Debug\netcoreapp2.2\Treinamento.Data.pdb

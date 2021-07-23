@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fb/tnACixEtft+9r3pHnlqr7zJf691UYdmLkphaOjUY2UV/0/fPtT+40OMWzd+qTDD9PN27RE9z+Pn/tiCHcyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pramos\\Desktop\\Treinamento\\Treinamento\\Treinamento.Negocio\\Treinamento.Negocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pramos\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\pramos\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\pramos\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\pramos\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\pramos\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\pramos\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\pramos\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

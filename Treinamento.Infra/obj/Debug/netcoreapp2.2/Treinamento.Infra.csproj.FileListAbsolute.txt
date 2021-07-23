@@ -1,0 +1,4 @@
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Infra\bin\Debug\netcoreapp2.2\Treinamento.Business.dll
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Infra\obj\Debug\netcoreapp2.2\Treinamento.Infra.csprojAssemblyReference.cache
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Infra\obj\Debug\netcoreapp2.2\Treinamento.Infra.AssemblyInfoInputs.cache
+C:\Users\pramos\Desktop\Treinamento\Treinamento\Treinamento.Infra\obj\Debug\netcoreapp2.2\Treinamento.Infra.AssemblyInfo.cs
